@@ -9,5 +9,8 @@ List of handy parts for making DIY keyboards
 ## Other lists
 
 * [keeb.gg](https://www.keeb.gg)
-* [Keyboard Vendor List](url)](https://www.alexotos.com/keyboard-vendor-list/)
+* [Keyboard Vendor List](https://www.alexotos.com/keyboard-vendor-list/)
 
+## Footprints/KiCAD
+
+* [Switches](https://github.com/TweetyDaBird/keyswitches.pretty)

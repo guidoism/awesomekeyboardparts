@@ -9,5 +9,5 @@ List of handy parts for making DIY keyboards
 ## Other lists
 
 * [keeb.gg](https://www.keeb.gg)
-
+* [Keyboard Vendor List](url)](https://www.alexotos.com/keyboard-vendor-list/)
 

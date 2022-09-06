@@ -10,6 +10,7 @@ List of handy parts for making DIY keyboards
 
 * [keeb.gg](https://www.keeb.gg)
 * [Keyboard Vendor List](https://www.alexotos.com/keyboard-vendor-list/)
+* [Some dude's list](https://github.com/AYM1607/swept-crkbd)
 
 ## Footprints/KiCAD
 
